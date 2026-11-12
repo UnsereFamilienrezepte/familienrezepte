@@ -8,3 +8,4 @@ Die Rezepte stehen im Ordner [rezepte](rezepte/).
 
 - [Mediterraner Auberginenauflauf mit Mozzarella](rezepte/mediterraner-auberginenauflauf.md)
 - [Einfaches Chili sin Carne](rezepte/chili-sin-carne.md)
+- [Käse-Lauch-Suppe mit Hack](rezepte/kaese-lauch-suppe.md)
