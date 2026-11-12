@@ -1,0 +1,10 @@
+# Familienrezepte
+
+Hier sammeln wir Rezepte für unsere Familie: bewährte Lieblingsgerichte, neue Entdeckungen und alles, was wir gerne wieder kochen oder backen möchten.
+
+Die Sammlung wächst mit der Zeit. Zu jedem Rezept können Zutaten, Mengen und Zubereitungsschritte sowie persönliche Tipps und Varianten festgehalten werden.
+
+Die Rezepte stehen im Ordner [rezepte](rezepte/).
+
+- [Mediterraner Auberginenauflauf mit Mozzarella](rezepte/mediterraner-auberginenauflauf.md)
+- [Einfaches Chili sin Carne](rezepte/chili-sin-carne.md)
